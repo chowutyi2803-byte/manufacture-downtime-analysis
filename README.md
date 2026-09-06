@@ -82,7 +82,6 @@ Testers and Probers are the main machine downtime drivers, accounting for 68.7% 
 - Machine reliability analysis
 - Business insight generation and recommendations
 
-## 📷 Dashboard Preview
 
 ## 📊 Power BI Dashboard
 
@@ -90,6 +89,8 @@ The interactive Power BI dashboard is available to explore through the preview i
 
 **[Download the Power BI Dashboard (.pbix)](https://github.com/chowutyi2803-byte/manufacture-downtime-analysis/releases/tag/v1.0)**
 
+
+## 📷 Dashboard Preview
 
 ### Executive Overview & Lot Severity
 
