@@ -47,14 +47,10 @@ The analysis was presented through a four-page interactive Power BI dashboard co
 
 ## 📈 Dashboard Features
 
-- **Executive Overview & Lot Severity**
-  Provides an overview of total lost minutes, affected lots, outlier incidents, downtime frequency, and lot severity.
-- **Root Cause Pareto Analysis**
-  Identifies the major downtime drivers and their cumulative contribution to total downtime.
-- **Operator Performance & Attention**
-  Evaluates operator attention incidents, operator workload, shift patterns, and attention-related downtime.
-- **Machine Reliability (Testers & Probers)**
-  Analyses machine downtime, repair time, fleet-wide impact, and key failure modes for Testers and Probers.
+- **Executive Overview & Lot Severity** — Provides an overview of total lost minutes, affected lots, outlier incidents, downtime frequency, and lot severity.
+- **Root Cause Pareto Analysis** — Identifies the major downtime drivers and their cumulative contribution to total downtime.
+- **Operator Performance & Attention** — Evaluates operator attention incidents, operator workload, shift patterns, and attention-related downtime.
+- **Machine Reliability (Testers & Probers)** — Analyses machine downtime, repair time, fleet-wide impact, and key failure modes for Testers and Probers.
 
 ## Business Insights
 
@@ -82,6 +78,7 @@ Testers and Probers are the main machine downtime drivers, accounting for 68.7% 
 - Machine reliability analysis
 - Business insight generation and recommendations
 
+## 📷 Dashboard Preview
 
 ## 📊 Power BI Dashboard
 
@@ -89,8 +86,6 @@ The interactive Power BI dashboard is available to explore through the preview i
 
 **[Download the Power BI Dashboard (.pbix)](https://github.com/chowutyi2803-byte/manufacture-downtime-analysis/releases/tag/v1.0)**
 
-
-## 📷 Dashboard Preview
 
 ### Executive Overview & Lot Severity
 
